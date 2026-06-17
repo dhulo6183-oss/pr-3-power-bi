@@ -78,9 +78,7 @@ Global Superstore/
 
 ## 👤 Author
 
-**Devan Patel**
-- 📍 Navsari, Gujarat, India
-- 🗓️ Project Date: May 2026
+**dhruv prajapati**
 
 ---
 
